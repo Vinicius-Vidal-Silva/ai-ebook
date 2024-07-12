@@ -7,4 +7,4 @@ E-book criado como parte do desafio da DIO
 As IA utilizadas foram o chatGPT para a criação do conteúdo, Leonardo AI para gerar as imagens e artes do E-BOOK e o canva foi utilizado para a diagramação do conteúdo.
 
 ## 🚀 Resultados
-Os resultados apresentados estão nesse repositório
+Os resultados apresentados estão nesse repositório e podem ser acessados no arquivo "Correlação e Causalidade.pdf"
